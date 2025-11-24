@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Bohdan — Full-Stack Developer
 
-<!--
-**bohdan-m/bohdan-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer skilled in building clean, scalable, and production-ready applications with **React, TypeScript, Django REST Framework, and PostgreSQL**.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into real products — from designing REST APIs and backend architecture to building intuitive and responsive user interfaces.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 My projects
+- **SpendSplif** — full-stack finance tracker with analytics, roles, and secure API communication  
+- **EduHub** — educational platform with role-based access, progress tracking, and clean REST API design  
+- **Labara App** — internal Android application built with React Native + Django REST Framework for machine operation tracking and data synchronization  
+
+### 🔧 Tech Stack
+**Frontend:** React, TypeScript, Vite, TailwindCSS, React Native  
+**Backend:** Python, Django, Django REST Framework, PostgreSQL  
+**Tools:** Docker, Git, Postman  
+
+💼 Open to collaborations and new opportunities.  
+📫 Reach me: **bohdanmatvieiev1@gmail.com**
